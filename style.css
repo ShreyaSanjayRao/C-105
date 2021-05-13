@@ -1,0 +1,19 @@
+body{
+    color:deeppink;
+    background: gold;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+.name_of_objects{
+color: indianred;
+}
+#camera{
+    border: 2px dashed crimson;
+    width: 350px;
+    height: 350px;
+}
+#result_object_name{
+    color: darkblue;
+}
